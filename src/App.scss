@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+
+$error-color: red;
+
+.danger {
+  background-color: $error-color;
+}
